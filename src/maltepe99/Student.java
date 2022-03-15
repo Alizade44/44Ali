@@ -1,4 +1,4 @@
-package maltepe99;
+package edu.tr.maltepe;
 
 public class Student extends Person{
     private int studentNumber;
